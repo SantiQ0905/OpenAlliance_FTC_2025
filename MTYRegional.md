@@ -49,12 +49,11 @@
     </div>
   </div>
 
-
 ---
 
 ### **⚪ 26381 Overture White**
 
-- Robot name: "Valkyrie"inspired by the HONDA Valkyrie Motorcycle.
+- Robot name: "Valkyrie" inspired by the HONDA Valkyrie Motorcycle.
 - Due to time and practice constraints, we settled for climbing only the first level, ensuring more High Basket cycles.
 - A complete redesign of the claw mechanism was done just days before the event, resulting in a **claw-like mechanism with a variable angle**, improving versatility.
 - Like our sister team, we developed an autonomous routine for each starting location, guaranteeing at least two high basket samples.
@@ -113,6 +112,6 @@ Here are some pictures from Valkyrie:
 
 ## **🏁 A Defining Event for Overture & Thanks**
 
-The Monterrey Regional was a pivotal moment for both **Overture Purple** and **Overture White** teams. The team members are extremely proud of their progress and achievements in their second year in the FTC category. A special shoutout must go to the **Awards, Buissnes and Marketing team**, their efforts on essays, sponsorship and more have resulted in our positive result as Inspire Award 1st and 2nd place. Thank You. A heartfel thank you to our alliance partners **VOLTEC Robotics Black** and **Botbusters White**, all competing teams, judges, volunteers, mentors, coaches, and supporters for their contributions and support. We look forward to continuing our journey towards the Mexico Championship and beyond.
+The Monterrey Regional was a pivotal moment for both **Overture Purple** and **Overture White**. The team members are extremely proud of their progress and achievements in their second year in the FTC category. A special shoutout must go to the **Awards, Business and Marketing team**, their efforts on essays, sponsorship, and more have led to us achieving 1st and 2nd place in the Inspire Award. Thank You. A heartfelt thank you to our alliance partners **VOLTEC Robotics Black** and **Botbusters White**, all competing teams, judges, volunteers, mentors, coaches, and supporters for their contributions and support. We look forward to continuing our journey towards the Mexico Championship and beyond.
 
 💜⚪ **BELIEVE!** 🚀
