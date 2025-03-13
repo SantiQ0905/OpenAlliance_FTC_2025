@@ -25,29 +25,32 @@
 ### **📸 Photos**
 Here are some pictures from Diavel:
 
-<img src="Pics/Monterrey/Diavel_1.jpeg" alt="Diavel_1" width="250"/>
-<div style="clear: both;"></div>
-*Close up of Diavel.*
-
-<img src="Pics/Monterrey/Diavel_2.jpeg" alt="Diavel_2" width="250"/>
-<div style="clear: both;"></div>
-*Close up of Diavel.*
-
-<img src="Pics/Monterrey/WholeTeam_1.jpeg" alt="Whole Team Picture" width="400"/>
-<div style="clear: both;"></div>
-*A picture of Overture White and Purple together*
-
-<img src="Pics/Monterrey/Purple_Alliance.jpeg" alt="Purple Alliance Partners" width="300"/>
-<div style="clear: both;"></div>
-*Celebrating with VOLTEC BLACK a successful alliance.*
-
-<img src="Pics/Monterrey/Believe_2.jpeg" alt="Believe" width="400"/>
-<div style="clear: both;"></div>
-*The BELIEVE signed by all team members and mentors. Touched before every match and Inspire Interview*
-
-<img src="Pics/Monterrey/Medal_Diavel.jpeg" alt="Celebratory Valkyrie" width="400"/>
-<div style="clear: both;"></div>
-*Diavel posing triumphantly with its medal*
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px;">
+  <div>
+    <img src="Pics/Monterrey/Diavel_1.jpeg" alt="Diavel_1" style="width: 100%;"/>
+    <div style="clear: both;"></div>
+  </div>
+  <div>
+    <img src="Pics/Monterrey/Diavel_2.jpeg" alt="Diavel_2" style="width: 100%;"/>
+    <div style="clear: both;"></div>
+  </div>
+  <div>
+    <img src="Pics/Monterrey/WholeTeam_1.jpeg" alt="Whole Team Picture" style="width: 100%;"/>
+    <div style="clear: both;"></div>
+  </div>
+  <div>
+    <img src="Pics/Monterrey/Purple_Alliance.jpeg" alt="Purple Alliance Partners" style="width: 100%;"/>
+    <div style="clear: both;"></div>
+  </div>
+  <div>
+    <img src="Pics/Monterrey/Believe_2.jpeg" alt="Believe" style="width: 100%;"/>
+    <div style="clear: both;"></div>
+  </div>
+  <div>
+    <img src="Pics/Monterrey/Medal_Diavel.jpeg" alt="Celebratory Valkyrie" style="width: 100%;"/>
+    <div style="clear: both;"></div>
+  </div>
+</div>
 
 
 ---
@@ -109,12 +112,10 @@ Here are some pictures from Valkyrie:
     <img src="Pics/Monterrey/Celebratory_Valkyrie.jpeg" alt="Celebratory Valkyrie" style="width: 100%;"/>
   </div>
 </div>
-
-
 ---
 
 ## **🏁 A Defining Event for Overture & Thanks**
 
-The Monterrey Regional was a pivotal moment for both **Overture Purple** and **Overture White** teams. They are extremely proud of their progress and achievements in their second year in the FTC category. They extend their gratitude to the FTC community, alliance partners **VOLTEC Robotics Black** and **Botbusters White**, all competing teams, judges, volunteers, mentors, coaches, and supporters for their contributions and support. They look forward to continuing their journey towards the Mexico Championship and beyond.
+The Monterrey Regional was a pivotal moment for both **Overture Purple** and **Overture White** teams. The team members are extremely proud of their progress and achievements in their second year in the FTC category. A special shoutout must go to the **Awards, Buissnes and Marketing team**, their efforts on essays, sponsorship and more have resulted in our positive result as Inspire Award 1st and 2nd place. Thank You. A heartfel thank you to our alliance partners **VOLTEC Robotics Black** and **Botbusters White**, all competing teams, judges, volunteers, mentors, coaches, and supporters for their contributions and support. We look forward to continuing our journey towards the Mexico Championship and beyond.
 
 💜⚪ **BELIEVE!** 🚀
