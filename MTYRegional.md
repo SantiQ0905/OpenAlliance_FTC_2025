@@ -22,35 +22,32 @@
   ### **📸 Photos**
   Here are some pictures from Diavel:
 
-### **📸 Photos**
-Here are some pictures from Diavel:
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px;">
-  <div>
-    <img src="Pics/Monterrey/Diavel_1.jpeg" alt="Diavel_1" style="width: 100%;"/>
-    <div style="clear: both;"></div>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px;">
+    <div>
+      <img src="Pics/Monterrey/Diavel_1.jpeg" alt="Diavel_1" style="width: 100%;"/>
+      <div style="clear: both;"></div>
+    </div>
+    <div>
+      <img src="Pics/Monterrey/Diavel_2.jpeg" alt="Diavel_2" style="width: 100%;"/>
+      <div style="clear: both;"></div>
+    </div>
+    <div>
+      <img src="Pics/Monterrey/WholeTeam_1.jpeg" alt="Whole Team Picture" style="width: 100%;"/>
+      <div style="clear: both;"></div>
+    </div>
+    <div>
+      <img src="Pics/Monterrey/Purple_Alliance.jpeg" alt="Purple Alliance Partners" style="width: 100%;"/>
+      <div style="clear: both;"></div>
+    </div>
+    <div>
+      <img src="Pics/Monterrey/Believe_2.jpeg" alt="Believe" style="width: 100%;"/>
+      <div style="clear: both;"></div>
+    </div>
+    <div>
+      <img src="Pics/Monterrey/Medal_Diavel.jpeg" alt="Celebratory Valkyrie" style="width: 100%;"/>
+      <div style="clear: both;"></div>
+    </div>
   </div>
-  <div>
-    <img src="Pics/Monterrey/Diavel_2.jpeg" alt="Diavel_2" style="width: 100%;"/>
-    <div style="clear: both;"></div>
-  </div>
-  <div>
-    <img src="Pics/Monterrey/WholeTeam_1.jpeg" alt="Whole Team Picture" style="width: 100%;"/>
-    <div style="clear: both;"></div>
-  </div>
-  <div>
-    <img src="Pics/Monterrey/Purple_Alliance.jpeg" alt="Purple Alliance Partners" style="width: 100%;"/>
-    <div style="clear: both;"></div>
-  </div>
-  <div>
-    <img src="Pics/Monterrey/Believe_2.jpeg" alt="Believe" style="width: 100%;"/>
-    <div style="clear: both;"></div>
-  </div>
-  <div>
-    <img src="Pics/Monterrey/Medal_Diavel.jpeg" alt="Celebratory Valkyrie" style="width: 100%;"/>
-    <div style="clear: both;"></div>
-  </div>
-</div>
 
 
 ---
