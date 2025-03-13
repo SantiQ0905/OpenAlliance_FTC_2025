@@ -86,33 +86,30 @@ Here are some pictures from Diavel:
 ### **📸 Photos**
 Here are some pictures from Valkyrie:
 
-<img src="Pics/Monterrey/Valkirie_1.jpeg" alt="Valkyrie_1" width="400"/>
-<div style="clear: both;"></div>
-Close up of Valkyrie.
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px;">
+  <div>
+    <img src="Pics/Monterrey/Valkirie_1.jpeg" alt="Valkyrie_1" style="width: 100%;"/>
+  </div>
+  <div>
+    <img src="Pics/Monterrey/WholeTeam_1.jpeg" alt="Whole Team Picture" style="width: 100%;"/>
+  </div>
+  <div>
+    <img src="Pics/Monterrey/White_Alliance.jpeg" alt="White Alliance Partners" style="width: 100%;"/>
+  </div>
+  <div>
+    <img src="Pics/Monterrey/White_Winner.jpeg" alt="White Winner" style="width: 100%;"/>
+  </div>
+  <div>
+    <img src="Pics/Monterrey/Pit_Chillout.jpeg" alt="Pit Area" style="width: 100%;"/>
+  </div>
+  <div>
+    <img src="Pics/Monterrey/Believe_2.jpeg" alt="Believe" style="width: 100%;"/>
+  </div>
+  <div>
+    <img src="Pics/Monterrey/Celebratory_Valkyrie.jpeg" alt="Celebratory Valkyrie" style="width: 100%;"/>
+  </div>
+</div>
 
-<img src="Pics/Monterrey/WholeTeam_1.jpeg" alt="Whole Team Picture" width="400"/>
-<div style="clear: both;"></div>
-A picture of Overture White and Purple together
-
-<img src="Pics/Monterrey/White_Alliance.jpeg" alt="White Alliance Partners" width="400"/>
-<div style="clear: both;"></div>
-Celebrating with BOTBUSTERS WHITE a successful alliance.
-
-<img src="Pics/Monterrey/White_Winner.jpeg" alt="White Winner" width="400"/>
-<div style="clear: both;"></div>
-Overture White celebrating the Inspire Award.
-
-<img src="Pics/Monterrey/Pit_Chillout.jpeg" alt="Pit Area" width="400"/>
-<div style="clear: both;"></div>
-After mounting the pit, team members tested the coziness!
-
-<img src="Pics/Monterrey/Believe_2.jpeg" alt="Believe" width="400"/>
-<div style="clear: both;"></div>
-The BELIEVE signed by all team members and mentors. Touched before every match and Inspire Interview
-
-<img src="Pics/Monterrey/Celebratory_Valkyrie.jpeg" alt="Celebratory Valkyrie" width="400"/>
-<div style="clear: both;"></div>
-A team member beside Valkyrie after celebrations!
 
 ---
 
