@@ -25,11 +25,11 @@
 ### **📸 Photos**
 Here are some pictures from Diavel:
 
-<img src="Pics/Monterrey/Diavel_1.jpeg" alt="Diavel_1" width="400"/>
+<img src="Pics/Monterrey/Diavel_1.jpeg" alt="Diavel_1" width="250"/>
 <div style="clear: both;"></div>
 *Close up of Diavel.*
 
-<img src="Pics/Monterrey/Diavel_2.jpeg" alt="Diavel_2" width="400"/>
+<img src="Pics/Monterrey/Diavel_2.jpeg" alt="Diavel_2" width="250"/>
 <div style="clear: both;"></div>
 *Close up of Diavel.*
 
@@ -37,13 +37,9 @@ Here are some pictures from Diavel:
 <div style="clear: both;"></div>
 *A picture of Overture White and Purple together*
 
-<img src="Pics/Monterrey/Purple_Alliance.jpeg" alt="Purple Alliance Partners" width="400"/>
+<img src="Pics/Monterrey/Purple_Alliance.jpeg" alt="Purple Alliance Partners" width="300"/>
 <div style="clear: both;"></div>
 *Celebrating with VOLTEC BLACK a successful alliance.*
-
-<img src="Pics/Monterrey/WhitePurple_Pit.jpeg" alt="Pit Area" width="400"/>
-<div style="clear: both;"></div>
-*Overture White and Purple with an Axolotl*
 
 <img src="Pics/Monterrey/Believe_2.jpeg" alt="Believe" width="400"/>
 <div style="clear: both;"></div>
