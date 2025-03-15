@@ -17,7 +17,9 @@
 - **Significant Achievement:** Second year in FTC and served as **Alliance Seed 7 Captain**, marking a great milestone in our team's competitive journey.
 
 ![Diavel Derrailment](Pics/CDMX/Diavel_Derrailment.jpeg)
-
+![CDMX_1](Pics/CDMX/IMG_3966.JPG)
+![CDMX_2](Pics/CDMX/IMG_3972.JPG)
+![CDMX_2](Pics/CDMX/IMG_3735.JPG)
 ---
 
 ### **⚪ 26381 Overture White**
@@ -34,6 +36,8 @@
 ![CDMX_Believe](Pics/CDMX/CDMX_Believe.jpeg)
 ![Pit_Assembly](Pics/CDMX/Pit_Assembly.jpeg)
 ![Valkyrie_Field](Pics/CDMX/Valkyrie_Field.jpeg)
+![Valkyrie_Field](Pics/CDMX/IMG_3893.JPG)
+![CDMX_3](Pics/CDMX/IMG_3836.JPG)
 
 ---
 
