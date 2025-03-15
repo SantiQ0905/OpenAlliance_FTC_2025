@@ -16,6 +16,8 @@
   - Suffered an **elevator derailment** after getting stuck in the high basket during auton, affecting our final playoff run.
 - **Significant Achievement:** Second year in FTC and served as **Alliance Seed 7 Captain**, marking a great milestone in our team's competitive journey.
 
+![Diavel Derrailment](Pics/CDMX/Diavel_Derrailment.jpeg)
+
 ---
 
 ### **⚪ 26381 Overture White**
@@ -28,6 +30,10 @@
 - Continued to embrace the **"BELIEVE" philosophy**, maintaining determination and enthusiasm throughout the event.
 - Despite not being selected as an alliance partner, we **proudly finished #19** among Mexico’s **best FTC teams**, a testament to our growth and performance.
 - **Looking Ahead:** This experience has set the stage for **next year’s improvements**, and we are eager to come back stronger and more prepared for future challenges.
+
+![CDMX_Believe](Pics/CDMX/CDMX_Believe.jpeg)
+![Pit_Assembly](Pics/CDMX/Pit_Assembly.jpeg)
+![Valkyrie_Field](Pics/CDMX/Valkyrie_Field.jpeg)
 
 ---
 
