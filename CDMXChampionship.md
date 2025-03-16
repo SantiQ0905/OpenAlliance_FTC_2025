@@ -19,7 +19,8 @@
 ![Diavel Derrailment](Pics/CDMX/Diavel_Derrailment.jpeg)
 ![CDMX_1](Pics/CDMX/IMG_3966.JPG)
 ![CDMX_2](Pics/CDMX/IMG_3972.JPG)
-![CDMX_2](Pics/CDMX/IMG_3735.JPG)
+![CDMX_3](Pics/CDMX/IMG_3735.JPG)
+![CDMX_3](Pics/CDMX/WhatsApp%20Image%202025-03-15%20at%207.19.56%20PM.jpeg)
 ---
 
 ### **⚪ 26381 Overture White**
@@ -33,11 +34,11 @@
 - Despite not being selected as an alliance partner, we **proudly finished #19** among Mexico’s **best FTC teams**, a testament to our growth and performance.
 - **Looking Ahead:** This experience has set the stage for **next year’s improvements**, and we are eager to come back stronger and more prepared for future challenges.
 
-![CDMX_Believe](Pics/CDMX/CDMX_Believe.jpeg)
-![Pit_Assembly](Pics/CDMX/Pit_Assembly.jpeg)
 ![Valkyrie_Field](Pics/CDMX/Valkyrie_Field.jpeg)
-![Valkyrie_Field](Pics/CDMX/IMG_3893.JPG)
 ![CDMX_3](Pics/CDMX/IMG_3836.JPG)
+![CDMX_4](Pics/CDMX/FTC_0027.JPG)
+![CDMX_4](Pics/CDMX/FTC_0029.JPG)
+
 
 ---
 
